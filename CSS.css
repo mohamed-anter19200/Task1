@@ -345,6 +345,7 @@ span {
     flex-direction: row-reverse;
     margin-right: 1050px;
     margin-top: -180px;
+    margin-left: -40px;
 }
 
 .sec4 .div3 {
@@ -352,7 +353,7 @@ span {
     display: flex;
     flex-direction: row;
     margin-top: 25px;
-    margin-left: 70px;
+    margin-left: 85px;
 }
 
 .sec4 .div3 .img2 {
@@ -369,7 +370,7 @@ span {
 
 .sec4 .div4 {
     width: 340px;
-    margin-left: 70px;
+    margin-left: 85px;
     margin-top: 25px;
     display: flex;
     flex-direction: row;
